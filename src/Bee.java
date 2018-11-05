@@ -6,5 +6,5 @@ public class Bee extends Animal {
 	Bee(int startingFeed){
 		this.setFeedPercentage(startingFeed);
 	}
-	private int testPush;
+	
 }
